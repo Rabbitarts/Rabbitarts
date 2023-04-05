@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=Rabbitarts&style=flat-square&color=blue" alt=""/>
   
   <h1>
-  hey there
+  Hello World
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
@@ -25,7 +25,7 @@
   
   I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
   
-  - :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.
+  - :telescope: I study front-end development and participate in the front-end development of web applications and websites.
 
   - :seedling: Exploring Technical Content Writing.
 
