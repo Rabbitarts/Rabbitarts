@@ -28,7 +28,7 @@
 
 ---
 
-### :fire: My Stats :
+### <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/fire_1f525.gif" width="30px" /> My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rabbitarts&theme=dark&background=000000)](https://git.io/streak-stats)
 
